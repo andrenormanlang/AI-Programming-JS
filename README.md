@@ -1,4 +1,4 @@
-# OpenAI with Node.js
+# OpenAI API with Node.js
 
 ## Overview
 
